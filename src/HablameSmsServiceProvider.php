@@ -1,6 +1,6 @@
 <?php
 
-namespace Andreshg112\HablameSms;
+namespace Kiube\HablameSms;
 
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\ServiceProvider;

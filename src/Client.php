@@ -1,6 +1,6 @@
 <?php
 
-namespace Andreshg112\HablameSms;
+namespace Kiube\HablameSms;
 
 use Andreshg112\HablameSms\Exceptions\CouldNotSendNotification;
 use GuzzleHttp\Client as GuzzleClient;

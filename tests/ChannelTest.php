@@ -1,6 +1,6 @@
 <?php
 
-namespace Andreshg112\HablameSms\Tests;
+namespace Kiube\HablameSms\Tests;
 
 use Andreshg112\HablameSms\Exceptions\CouldNotSendNotification;
 use Andreshg112\HablameSms\Facade;
