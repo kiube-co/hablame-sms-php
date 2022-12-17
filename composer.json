@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Andreshg112\\HablameSms\\": "src"
+            "Kiube\\HablameSms\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Andreshg112\\HablameSms\\Tests\\": "tests"
+            "Kiube\\HablameSms\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -46,10 +46,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Andreshg112\\HablameSms\\HablameSmsServiceProvider"
+                "Kiube\\HablameSms\\HablameSmsServiceProvider"
             ],
             "aliases": {
-                "HablameSms": "Andreshg112\\HablameSms\\Facade"
+                "HablameSms": "Kiube\\HablameSms\\Facade"
             }
         }
     }
